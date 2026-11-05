@@ -1,0 +1,6 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="Health forecast demo" version="3.34"><title>DEMO UNIQUEMENT — données fictives</title>
+<projectCrs><spatialrefsys><authid>EPSG:4326</authid></spatialrefsys></projectCrs>
+<projectlayers><layer-tree-group name=""><layer-tree-layer name="Prévisions fictives sur 12 mois" source="./centres_previsions.geojson" providerKey="ogr" checked="Qt::Checked"/></layer-tree-group>
+<mapcanvas><extent><xmin>-4.12</xmin><ymin>5.22</ymin><xmax>-3.88</xmax><ymax>5.48</ymax></extent></mapcanvas>
+<layer-tree-group name="Données fictives"/></projectlayers></qgis>

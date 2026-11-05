@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_fa9627f2ec73110823895bbb8b4d1447 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    <div style="position:fixed;top:10px;left:50px;z-index:9999;background:white;padding:8px;border:1px solid #888"><b>Démo uniquement — établissements et prévisions fictifs</b></div>
+    
+            <div class="folium-map" id="map_fa9627f2ec73110823895bbb8b4d1447" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_fa9627f2ec73110823895bbb8b4d1447 = L.map(
+                "map_fa9627f2ec73110823895bbb8b4d1447",
+                {
+                    center: [5.35, -4.02],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 10,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var circle_marker_90758d3702df552886a91f2704e6768c = L.circleMarker(
+                [5.336, -4.026],
+                {"bubblingMouseEvents": true, "color": "#135e96", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#135e96", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 19.747999999999998, "stroke": true, "weight": 3}
+            ).addTo(map_fa9627f2ec73110823895bbb8b4d1447);
+        
+    
+            circle_marker_90758d3702df552886a91f2704e6768c.bindTooltip(
+                `<div>
+                     Centre fictif A — 3 437 visites simulées prévues / 12 mois
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_3df4087542f4aa7023c650f835f88ad2 = L.circleMarker(
+                [5.36, -3.99],
+                {"bubblingMouseEvents": true, "color": "#135e96", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#135e96", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 15.464, "stroke": true, "weight": 3}
+            ).addTo(map_fa9627f2ec73110823895bbb8b4d1447);
+        
+    
+            circle_marker_3df4087542f4aa7023c650f835f88ad2.bindTooltip(
+                `<div>
+                     Centre fictif B — 2 366 visites simulées prévues / 12 mois
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c53347520adc5b5c22a779606587f0ba = L.circleMarker(
+                [5.3, -4.08],
+                {"bubblingMouseEvents": true, "color": "#135e96", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#135e96", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13.824, "stroke": true, "weight": 3}
+            ).addTo(map_fa9627f2ec73110823895bbb8b4d1447);
+        
+    
+            circle_marker_c53347520adc5b5c22a779606587f0ba.bindTooltip(
+                `<div>
+                     Centre fictif C — 1 956 visites simulées prévues / 12 mois
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e7d80cfa995e6f68f3434f72fa5488e7 = L.circleMarker(
+                [5.385, -4.05],
+                {"bubblingMouseEvents": true, "color": "#135e96", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#135e96", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 16.776, "stroke": true, "weight": 3}
+            ).addTo(map_fa9627f2ec73110823895bbb8b4d1447);
+        
+    
+            circle_marker_e7d80cfa995e6f68f3434f72fa5488e7.bindTooltip(
+                `<div>
+                     Centre fictif D — 2 694 visites simulées prévues / 12 mois
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_ae41ca3f43b53ad6398148dea638fac3 = L.circleMarker(
+                [5.275, -3.97],
+                {"bubblingMouseEvents": true, "color": "#135e96", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#135e96", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.76, "stroke": true, "weight": 3}
+            ).addTo(map_fa9627f2ec73110823895bbb8b4d1447);
+        
+    
+            circle_marker_ae41ca3f43b53ad6398148dea638fac3.bindTooltip(
+                `<div>
+                     Centre fictif E — 1 440 visites simulées prévues / 12 mois
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f1532adb418e0791d50c2858131799a5 = L.circleMarker(
+                [5.415, -3.94],
+                {"bubblingMouseEvents": true, "color": "#135e96", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#135e96", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.504, "stroke": true, "weight": 3}
+            ).addTo(map_fa9627f2ec73110823895bbb8b4d1447);
+        
+    
+            circle_marker_f1532adb418e0791d50c2858131799a5.bindTooltip(
+                `<div>
+                     Centre fictif F — 2 126 visites simulées prévues / 12 mois
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>

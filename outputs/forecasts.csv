@@ -1,0 +1,73 @@
+centre_id,mois,modele_retenu,visites_prevues_simulees,nom_fictif,latitude_fictive,longitude_fictive
+FICT-01,2026-01-01,Naïf saisonnier,302,Centre fictif A,5.336,-4.026
+FICT-01,2026-02-01,Naïf saisonnier,314,Centre fictif A,5.336,-4.026
+FICT-01,2026-03-01,Naïf saisonnier,331,Centre fictif A,5.336,-4.026
+FICT-01,2026-04-01,Naïf saisonnier,326,Centre fictif A,5.336,-4.026
+FICT-01,2026-05-01,Naïf saisonnier,293,Centre fictif A,5.336,-4.026
+FICT-01,2026-06-01,Naïf saisonnier,256,Centre fictif A,5.336,-4.026
+FICT-01,2026-07-01,Naïf saisonnier,233,Centre fictif A,5.336,-4.026
+FICT-01,2026-08-01,Naïf saisonnier,265,Centre fictif A,5.336,-4.026
+FICT-01,2026-09-01,Naïf saisonnier,251,Centre fictif A,5.336,-4.026
+FICT-01,2026-10-01,Naïf saisonnier,267,Centre fictif A,5.336,-4.026
+FICT-01,2026-11-01,Naïf saisonnier,315,Centre fictif A,5.336,-4.026
+FICT-01,2026-12-01,Naïf saisonnier,284,Centre fictif A,5.336,-4.026
+FICT-02,2026-01-01,Régression linéaire,224,Centre fictif B,5.36,-3.99
+FICT-02,2026-02-01,Régression linéaire,231,Centre fictif B,5.36,-3.99
+FICT-02,2026-03-01,Régression linéaire,229,Centre fictif B,5.36,-3.99
+FICT-02,2026-04-01,Régression linéaire,219,Centre fictif B,5.36,-3.99
+FICT-02,2026-05-01,Régression linéaire,202,Centre fictif B,5.36,-3.99
+FICT-02,2026-06-01,Régression linéaire,185,Centre fictif B,5.36,-3.99
+FICT-02,2026-07-01,Régression linéaire,170,Centre fictif B,5.36,-3.99
+FICT-02,2026-08-01,Régression linéaire,163,Centre fictif B,5.36,-3.99
+FICT-02,2026-09-01,Régression linéaire,165,Centre fictif B,5.36,-3.99
+FICT-02,2026-10-01,Régression linéaire,176,Centre fictif B,5.36,-3.99
+FICT-02,2026-11-01,Régression linéaire,192,Centre fictif B,5.36,-3.99
+FICT-02,2026-12-01,Régression linéaire,210,Centre fictif B,5.36,-3.99
+FICT-03,2026-01-01,Naïf saisonnier,188,Centre fictif C,5.3,-4.08
+FICT-03,2026-02-01,Naïf saisonnier,171,Centre fictif C,5.3,-4.08
+FICT-03,2026-03-01,Naïf saisonnier,181,Centre fictif C,5.3,-4.08
+FICT-03,2026-04-01,Naïf saisonnier,201,Centre fictif C,5.3,-4.08
+FICT-03,2026-05-01,Naïf saisonnier,176,Centre fictif C,5.3,-4.08
+FICT-03,2026-06-01,Naïf saisonnier,173,Centre fictif C,5.3,-4.08
+FICT-03,2026-07-01,Naïf saisonnier,133,Centre fictif C,5.3,-4.08
+FICT-03,2026-08-01,Naïf saisonnier,112,Centre fictif C,5.3,-4.08
+FICT-03,2026-09-01,Naïf saisonnier,155,Centre fictif C,5.3,-4.08
+FICT-03,2026-10-01,Naïf saisonnier,131,Centre fictif C,5.3,-4.08
+FICT-03,2026-11-01,Naïf saisonnier,160,Centre fictif C,5.3,-4.08
+FICT-03,2026-12-01,Naïf saisonnier,175,Centre fictif C,5.3,-4.08
+FICT-04,2026-01-01,Ridge,249,Centre fictif D,5.385,-4.05
+FICT-04,2026-02-01,Ridge,261,Centre fictif D,5.385,-4.05
+FICT-04,2026-03-01,Ridge,262,Centre fictif D,5.385,-4.05
+FICT-04,2026-04-01,Ridge,253,Centre fictif D,5.385,-4.05
+FICT-04,2026-05-01,Ridge,236,Centre fictif D,5.385,-4.05
+FICT-04,2026-06-01,Ridge,215,Centre fictif D,5.385,-4.05
+FICT-04,2026-07-01,Ridge,197,Centre fictif D,5.385,-4.05
+FICT-04,2026-08-01,Ridge,187,Centre fictif D,5.385,-4.05
+FICT-04,2026-09-01,Ridge,186,Centre fictif D,5.385,-4.05
+FICT-04,2026-10-01,Ridge,197,Centre fictif D,5.385,-4.05
+FICT-04,2026-11-01,Ridge,215,Centre fictif D,5.385,-4.05
+FICT-04,2026-12-01,Ridge,236,Centre fictif D,5.385,-4.05
+FICT-05,2026-01-01,Ridge,132,Centre fictif E,5.275,-3.97
+FICT-05,2026-02-01,Ridge,137,Centre fictif E,5.275,-3.97
+FICT-05,2026-03-01,Ridge,136,Centre fictif E,5.275,-3.97
+FICT-05,2026-04-01,Ridge,131,Centre fictif E,5.275,-3.97
+FICT-05,2026-05-01,Ridge,123,Centre fictif E,5.275,-3.97
+FICT-05,2026-06-01,Ridge,114,Centre fictif E,5.275,-3.97
+FICT-05,2026-07-01,Ridge,106,Centre fictif E,5.275,-3.97
+FICT-05,2026-08-01,Ridge,102,Centre fictif E,5.275,-3.97
+FICT-05,2026-09-01,Ridge,104,Centre fictif E,5.275,-3.97
+FICT-05,2026-10-01,Ridge,109,Centre fictif E,5.275,-3.97
+FICT-05,2026-11-01,Ridge,118,Centre fictif E,5.275,-3.97
+FICT-05,2026-12-01,Ridge,128,Centre fictif E,5.275,-3.97
+FICT-06,2026-01-01,Ridge,195,Centre fictif F,5.415,-3.94
+FICT-06,2026-02-01,Ridge,202,Centre fictif F,5.415,-3.94
+FICT-06,2026-03-01,Ridge,202,Centre fictif F,5.415,-3.94
+FICT-06,2026-04-01,Ridge,195,Centre fictif F,5.415,-3.94
+FICT-06,2026-05-01,Ridge,182,Centre fictif F,5.415,-3.94
+FICT-06,2026-06-01,Ridge,169,Centre fictif F,5.415,-3.94
+FICT-06,2026-07-01,Ridge,157,Centre fictif F,5.415,-3.94
+FICT-06,2026-08-01,Ridge,151,Centre fictif F,5.415,-3.94
+FICT-06,2026-09-01,Ridge,152,Centre fictif F,5.415,-3.94
+FICT-06,2026-10-01,Ridge,160,Centre fictif F,5.415,-3.94
+FICT-06,2026-11-01,Ridge,173,Centre fictif F,5.415,-3.94
+FICT-06,2026-12-01,Ridge,188,Centre fictif F,5.415,-3.94

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.026,
+          5.336
+        ]
+      },
+      "properties": {
+        "centre_id": "FICT-01",
+        "nom_fictif": "Centre fictif A",
+        "visites_prevues_simulees_12_mois": 3437,
+        "statut": "DONNEES FICTIVES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.99,
+          5.36
+        ]
+      },
+      "properties": {
+        "centre_id": "FICT-02",
+        "nom_fictif": "Centre fictif B",
+        "visites_prevues_simulees_12_mois": 2366,
+        "statut": "DONNEES FICTIVES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.08,
+          5.3
+        ]
+      },
+      "properties": {
+        "centre_id": "FICT-03",
+        "nom_fictif": "Centre fictif C",
+        "visites_prevues_simulees_12_mois": 1956,
+        "statut": "DONNEES FICTIVES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.05,
+          5.385
+        ]
+      },
+      "properties": {
+        "centre_id": "FICT-04",
+        "nom_fictif": "Centre fictif D",
+        "visites_prevues_simulees_12_mois": 2694,
+        "statut": "DONNEES FICTIVES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.97,
+          5.275
+        ]
+      },
+      "properties": {
+        "centre_id": "FICT-05",
+        "nom_fictif": "Centre fictif E",
+        "visites_prevues_simulees_12_mois": 1440,
+        "statut": "DONNEES FICTIVES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.94,
+          5.415
+        ]
+      },
+      "properties": {
+        "centre_id": "FICT-06",
+        "nom_fictif": "Centre fictif F",
+        "visites_prevues_simulees_12_mois": 2126,
+        "statut": "DONNEES FICTIVES"
+      }
+    }
+  ]
+}
